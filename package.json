@@ -1,0 +1,21 @@
+{
+    "name": "see-the-color",
+    "displayName": "See the Color",
+    "description": "Color schema for color blind. Same as https://atom.io/themes/see_the_color in Atom",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.55.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "See the Color",
+                "uiTheme": "vs-dark",
+                "path": "./themes/See the Color-color-theme.json"
+            }
+        ]
+    }
+}
