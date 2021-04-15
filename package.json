@@ -17,5 +17,7 @@
                 "path": "./themes/See the Color-color-theme.json"
             }
         ]
-    }
+    },
+    "publisher": "JasonZhang",
+    "repository": "https://github.com/cosmozx/see-the-color-vsc" 
 }
