@@ -2384,6 +2384,72 @@
 			"settings": {
 				"foreground": "#B267E6"
 			}
+		},
+		{
+			"scope": "entity.name.type",
+			"settings": {
+				"foreground": "#4C2DFF"
+			}
+		},
+		{
+			"scope": "entity.name.class",
+			"settings": {
+				"foreground": "#4C2DFF"
+			}
+		},
+		{
+			"scope": "support.type",
+			"settings": {
+				"foreground": "#4C2DFF"
+			}
+		},
+		{
+			"scope": "support.class",
+			"settings": {
+				"foreground": "#4C2DFF"
+			}
+		},
+		{
+			"scope": "keyword",
+			"settings": {
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "string.quoted",
+			"settings": {
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"scope": "support.function",
+			"settings": {
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": "meta.function",
+			"settings": {
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": "constant.numeric",
+			"settings": {
+				"fontStyle": "italic"
+			}
+		},
+		{
+			"scope": "comment",
+			"settings": {
+				"fontStyle": "italic bold"
+			}
+		},
+		{
+			"scope": "support.type",
+			"settings": {
+				"fontStyle": "italic"
+			}
 		}
 	]
 }
